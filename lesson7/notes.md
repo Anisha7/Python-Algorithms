@@ -86,3 +86,4 @@ def func(L,M):
 	selection sort is faster in this case because the list is already almost sorted and does not need to go through the longer process.
 
 	
+ Carpe diem!
