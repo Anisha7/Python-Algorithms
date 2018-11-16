@@ -25,7 +25,7 @@ Helper functions are functions written to help other functions with code reuse a
 
 If two functions use the same global, they will conflict with each other and even accidentally modify variables for the other function.
 
-## Data and Expressions Video
+## Data and Expressions
 
 ### What does pow(x,y) evaluate to?
 
